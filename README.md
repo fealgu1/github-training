@@ -2,4 +2,7 @@
 
 ## Training Session
 
-This is a training tutorial
+**Training**
+
+This is training repository. 
+

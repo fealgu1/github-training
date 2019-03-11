@@ -1,2 +1,5 @@
-# github-training
-testing_repo
+# Github-training
+
+## Training Session
+
+This is a training tutorial

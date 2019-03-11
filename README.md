@@ -4,5 +4,5 @@
 
 **Training**
 
-This is training repository. 
+This is a training repository. 
 

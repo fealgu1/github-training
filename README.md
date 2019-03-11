@@ -1,4 +1,4 @@
-# github-training
+# Github-training
 ## Testing_repo
 
 **Training**

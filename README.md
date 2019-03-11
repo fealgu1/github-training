@@ -1,2 +1,6 @@
 # github-training
-testing_repo
+## Testing_repo
+
+**Training**
+
+This is training repository. 
